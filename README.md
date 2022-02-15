@@ -65,15 +65,15 @@ Ademas al generador de funciones se le dio un valor de 20Vpp y una frecuencia de
 
 **¿En qué valor está posicionada la perilla VOLTS/DIV?** 
 
--la perilla de VOLTS/DIV se encoenTra en la posicion de 2.25
+- La perilla de VOLTS/DIV se encoenTra en la posicion de 2.25
 
 **¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
 
--La señal del ciclo abarca 4 cuadros de la señal de salirda
+- La señal del ciclo abarca 4 cuadros de la señal de salirda
 
 **¿En qué valor está posicionada la perilla TIME/DIV?**
 
-- la perilla de TIME/DIV se encoenyra en la posicion de 0.1 m
+- La perilla de TIME/DIV se encoenyra en la posicion de 0.1 m
 
 **7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?**
