@@ -5,9 +5,12 @@
 
 ## OBJETIVO GENERAL 
 
+- mediante los conocimientos impartidos en clase demostrar la capacidad de manipular el osciloscopio y el generador de funciones, ademas de la aplicacion de estos instrumentos a un circuito y la interpretacion de los datos obtenidos con las herramientas mencionadas.
 
 ## OBJETIVO ESPECIFICO
 
+- aplicar el generador de funciones en circuitos electricos.
+- interpretar los datos obtenidos en el osciloscopio mediante la manipulacion del mismo.  
 
 
 # MARCO TEORICO
