@@ -108,11 +108,7 @@ https://youtu.be/Nk38jPK--WE
 
 
 # CONCLUSIONES
-- los datos obtenigos gracias a la manipulacion del osciloscopio con respecto a la amplitud y la duracion del ciclo de la funcion debido a las periilas de VOLT/DIV y TIME/DIV respectivamente nos ayuda a interporetar mejor los conociementos aprendidos en clase.
-
-
-
-- Al obtener los datos del osciloscopio los podemos interpretado segun lo aprendido y asi se refuerza los conocimiento, en este caso fue los conocimientos de la manipulacion del osciloscopio.      
+- los datos obtenigos en el laboratorio gracias a la manipulacion del osciloscopio con respecto a la amplitud (VOLT/DIV) y la duracion del ciclo de la funcion (TIME/DIV) nos ayuda a interporetar mejor los conociementos aprendidos en clase.
 - Al aplicar los instrumentos a un circuito se puden analizar los datos sin dificultad y siempre y cuando tengamos bien claro los conceptos basicos  
 
 # BIBLIOGRAFIA
