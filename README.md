@@ -104,6 +104,8 @@ Los voltajes no coinciden debido que el multimetro mide voltaje rms o tambien ll
 
 # VIDEO
 
+https://youtu.be/Nk38jPK--WE
+
 
 # CONCLUSIONES
 
