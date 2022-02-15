@@ -67,14 +67,14 @@ Ademas al generador de funciones se le dio un valor de 20Vpp y una frecuencia de
 **7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?**
 
-Amplitud de voltaje:  (V)
+Amplitud de voltaje: 6.86 (V)
 
-Periodo:  (s)
+Periodo: 400 (us)
 
 **7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.**
-f: (Hz)
-ω:  (rad/s)
+f: 2.5 (kHz)
+ω:  15.7 (k[rad/s])
 
 **7.5.7. Con el multímetro digital mida el voltaje de salida en RL.**
 
