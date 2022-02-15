@@ -107,7 +107,7 @@ Los voltajes no coinciden debido que el multimetro mide voltaje rms o tambien ll
 
 # CONCLUSIONES
 
-- Al observar el osciloscopío se pudo aplicar los conocimientos adquiridos sin mayor dificualtad 
+- Al observar el osciloscopío se puede aplicar los conocimientos adquiridos sin mayor dificualtad 
 - Al aplicar los instrumentos a un circuito se puden analizar los datos sin dificultad y siempre y cuando tengamos bien claro los conceptos basicos  
 
 # BIBLIOGRAFIA
