@@ -73,7 +73,7 @@ Ademas al generador de funciones se le dio un valor de 20Vpp y una frecuencia de
 
 **¿En qué valor está posicionada la perilla TIME/DIV?**
 
-- La perilla de TIME/DIV se encoenyra en la posicion de 0.1 m
+- La perilla de TIME/DIV se encuentra en la posicion de 0.1 m
 
 **7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?**
@@ -108,12 +108,11 @@ https://youtu.be/Nk38jPK--WE
 
 
 # CONCLUSIONES
+- los datos obtenigos gracias a la manipulacion del osciloscopio con respecto a la amplitud y la duracion del ciclo de la funcion debido a las periilas de VOLT/DIV y TIME/DIV respectivamente nos ayuda a interporetar mejor los conociementos aprendidos en clase.
 
-interpretar los datos obtenidos en el osciloscopio mediante la manipulacion del mismo.  
 
-- Al obtener los datos del osciloscopio los podemos interpretado segun lo aprendido y asi se refuerza los conocimiento, en este caso fue los conocimientos de la manipulacion del osciloscopio.  
 
-- Al observar el osciloscopío se puede aplicar los conocimientos adquiridos sin mayor dificualtad, esto nos ayuda a obtener los datos de una manera rapida y sencilla.    
+- Al obtener los datos del osciloscopio los podemos interpretado segun lo aprendido y asi se refuerza los conocimiento, en este caso fue los conocimientos de la manipulacion del osciloscopio.      
 - Al aplicar los instrumentos a un circuito se puden analizar los datos sin dificultad y siempre y cuando tengamos bien claro los conceptos basicos  
 
 # BIBLIOGRAFIA
