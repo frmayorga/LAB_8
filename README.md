@@ -67,7 +67,7 @@ Ademas al generador de funciones se le dio un valor de 20Vpp y una frecuencia de
 -la perilla de VOLTS/DIV se encoenTra en la posicion de 2.25
 
 **¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
--La señal del ciclo abarca 2 cuadros de la señal de salirda
+-La señal del ciclo abarca 4 cuadros de la señal de salirda
 
 **¿En qué valor está posicionada la perilla TIME/DIV?**
 - la perilla de TIME/DIV se encoenyra en la posicion de 0.1 m
