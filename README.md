@@ -39,17 +39,53 @@ Se utilizo los siguientes materiales
 
 | CANTIDAD | MATERIAL O EQUIPO |
 |----------|-------------------------|
-| 1 | Fuente de voltaje de C.D. |
-| 2 | Multímetros Digitales |
-| 1 | Resistor de 1 kΩ |
-| 2 | Resistores de 2.2 kΩ |
-| 1 | Resistor de 1.8 kΩ |
-| 1 | Resistor de 3.9 kΩ |
+| 1 | Generador de funciones |
+| 1 | Osciloscopio |
+| 1 | Multimetro Digital |
+| 2 | Resistor de 1 kΩ |
+| 1 | Resistor de 2.2 kΩ |
 | 1 | Protoboard |
 
+Se implemento el circuito de la figura en los simuladores multisim y dcaclab con el fin de responder los interrogantes:
+ 
+ ![image](https://user-images.githubusercontent.com/93361435/153975065-5e5eb582-471f-4fc4-b38c-a8571af0df29.png)
+
+Ademas al generador de funciones se le dio un valor de 20Vpp y una frecuencia de 2.5kHz, se conecto el osciloscopio al resistor de carga y se contesto las preguntas hechas en la guia. 
 
 # RESPUESTA DE INTERROGANTES
 
+**7.5.4. Responda las siguientes preguntas:**
+
+**¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?**
+
+**¿En qué valor está posicionada la perilla VOLTS/DIV?** 
+
+**¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
+
+**¿En qué valor está posicionada la perilla TIME/DIV?**
+
+**7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
+del osciloscopio?**
+
+Amplitud de voltaje:  (V)
+Periodo:  (s)
+
+**7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
+salida.**
+f: (Hz)
+ω:  (rad/s)
+
+**7.5.7. Con el multímetro digital mida el voltaje de salida en RL.**
+
+Utilizando el simulador multisim obtenemos el siguiente resultado: 
+
+![image](https://user-images.githubusercontent.com/93361435/153975396-4e4de91b-cab9-44eb-bd3b-4f5027c4f783.png)
+
+Siendo el valor mostrado por el multimetro de 4.861 V
+
+**7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.**
+
+Los voltajes no coinciden debido que el multimetro mide voltaje rms o tambien llamado valor efectivo y el valor mostrado en el osciloscopio es un valor pico o tambien llamado valor máximo que muestra la onda seno.
 
 
 
