@@ -108,7 +108,7 @@ https://youtu.be/Nk38jPK--WE
 
 
 # CONCLUSIONES
-- los datos obtenigos en el laboratorio gracias a la manipulacion del osciloscopio con respecto a la amplitud (VOLT/DIV) y la duracion del ciclo de la funcion (TIME/DIV) nos ayuda a interporetar mejor los conociementos aprendidos en clase.
+- Los datos obtenigos en el laboratorio gracias a la manipulacion del osciloscopio con respecto a la amplitud (VOLT/DIV) y la duracion del ciclo de la funcion (TIME/DIV) nos ayuda a interporetar mejor los conociementos aprendidos en clase.
 - Al aplicar los instrumentos a un circuito se puden analizar los datos sin dificultad y siempre y cuando tengamos bien claro los conceptos basicos  
 
 # BIBLIOGRAFIA
