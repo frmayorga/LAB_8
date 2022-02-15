@@ -12,7 +12,7 @@
 
 # MARCO TEORICO
 
-
+![LAB8](https://user-images.githubusercontent.com/93361435/153976947-8bcd3e80-d3f3-489c-bec5-6e3f01f3edaf.jpg)
 
 **CODIGO DE COLORES PARA RESISTORES DE 4 BANDAS** 
 
@@ -68,6 +68,7 @@ Ademas al generador de funciones se le dio un valor de 20Vpp y una frecuencia de
 del osciloscopio?**
 
 Amplitud de voltaje:  (V)
+
 Periodo:  (s)
 
 **7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
