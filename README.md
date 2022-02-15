@@ -73,6 +73,7 @@ Periodo: 400 (us)
 
 **7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.**
+
 f: 2.5 (kHz)
 ω:  15.7 (k[rad/s])
 
