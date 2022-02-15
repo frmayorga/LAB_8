@@ -109,7 +109,11 @@ https://youtu.be/Nk38jPK--WE
 
 # CONCLUSIONES
 
-- Al observar el osciloscopío se puede aplicar los conocimientos adquiridos sin mayor dificualtad 
+- aplicar el generador de funciones en circuitos electricos.
+- interpretar los datos obtenidos en el osciloscopio mediante la manipulacion del mismo.  
+
+
+- Al observar el osciloscopío se puede aplicar los conocimientos adquiridos sin mayor dificualtad, esto nos ayuda a obtener los datos de una manera rapida y sencilla.    
 - Al aplicar los instrumentos a un circuito se puden analizar los datos sin dificultad y siempre y cuando tengamos bien claro los conceptos basicos  
 
 # BIBLIOGRAFIA
